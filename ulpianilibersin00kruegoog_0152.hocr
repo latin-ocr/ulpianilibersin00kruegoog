@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ulpianilibersin00kruegoog_0152.png"; bbox 0 0 3066 4826; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 308 1875 1184 1997">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 308 1875 1184 1997">
+     <span class='ocr_line' id='line_1_1' title="bbox 308 1875 1184 1997; baseline -0.002 -1"><span class='ocrx_word' id='word_1_1' title='bbox 308 1877 818 1997; x_wconf 86' lang='lat' dir='ltr'><strong>FRAGMENTA</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 852 1875 1184 1995; x_wconf 83' lang='lat' dir='ltr'><strong>MINORA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 204 2212 1286 2373">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 204 2212 1286 2373">
+     <span class='ocr_line' id='line_1_2' title="bbox 204 2212 1286 2373; baseline -0.004 -61"><span class='ocrx_word' id='word_1_3' title='bbox 204 2214 640 2373; x_wconf 80' lang='lat' dir='ltr'>SAEOVLQRVM</span> <span class='ocrx_word' id='word_1_4' title='bbox 665 2215 720 2311; x_wconf 88' lang='lat' dir='ltr'><strong>P.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 747 2212 897 2312; x_wconf 82' lang='lat' dir='ltr'><strong>CHR.</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 923 2216 981 2312; x_wconf 91' lang='lat' dir='ltr'><strong>N.</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1010 2214 1213 2314; x_wconf 84' lang='lat' dir='ltr'>SECVN</span> <span class='ocrx_word' id='word_1_8' title='bbox 1216 2215 1286 2310; x_wconf 90' lang='lat' dir='ltr'><strong>DI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 580 2525 911 2622">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 580 2525 911 2622">
+     <span class='ocr_line' id='line_1_3' title="bbox 580 2525 911 2622; baseline 0 -1"><span class='ocrx_word' id='word_1_9' title='bbox 580 2525 662 2622; x_wconf 85' lang='grc' dir='ltr'><strong>ΕΤ</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 687 2525 911 2622; x_wconf 85' lang='lat' dir='ltr'>TERTII</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1538 4826">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1538 4826">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1538 4826; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 1538 4826; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
